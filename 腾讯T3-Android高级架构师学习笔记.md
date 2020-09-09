@@ -125,7 +125,7 @@ Java 是 Android App 开发默认的语言, Android Framework 也是默认使用
 
 ## [](https://github.com/Android-Alvin/Android-P7/blob/master/Android%E5%BC%80%E5%8F%91%E8%BF%98%E4%B8%8D%E4%BC%9A%E8%BF%99%E4%BA%9B%EF%BC%9F%E5%A6%82%E4%BD%95%E9%9D%A2%E8%AF%95%E6%8B%BF%E9%AB%98%E8%96%AA%EF%BC%81.md#资料获取)资料获取：
 
-!**[https://jq.qq.com/?_wv=1027&k=YgPuiolA](https://jq.qq.com/?_wv=1027&k=YgPuiolA)
+![腾讯@Android高级架构.png](http://chuantu.xyz/t6/740/1599554079x1033347913.png)
 **加入合作腾讯@Android高级架构Q群：672020606，管理处免费领取资料**
 
 **Android架构师之路很漫长，一起共勉吧！**
